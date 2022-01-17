@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carloseduardolemos@hotmail.com
+	name = Carlos Lemos
